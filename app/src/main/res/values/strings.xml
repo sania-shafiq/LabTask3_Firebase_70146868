@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UOL Lost &amp; Found</string>
+    <string name="post_title">Post an Item</string>
+    <string name="newest_first">Newest first</string>
+    <string name="live_from_firebase">Live from Firebase</string>
+    <string name="empty_title">No items posted yet</string>
+    <string name="empty_sub">Tap \"Post an Item\" to add the first one.</string>
+</resources>
